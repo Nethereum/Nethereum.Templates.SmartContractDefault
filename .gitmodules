@@ -1,0 +1,3 @@
+[submodule "templates/NethereumMetamaskBlazor"]
+	path = templates/NethereumMetamaskBlazor
+	url = https://github.com/Nethereum/Nethereum.Metamask.Blazor

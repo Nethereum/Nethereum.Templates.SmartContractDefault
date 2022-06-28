@@ -1,0 +1,7 @@
+{
+    "projectName": "ContractLibrary",
+    "namespace": "ContractLibrary.Contracts",
+    "lang": 0,
+    "autoCodeGen": true,
+    "projectPath": "./ContractLibrary"
+}

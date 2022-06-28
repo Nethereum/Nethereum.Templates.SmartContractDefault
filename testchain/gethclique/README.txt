@@ -1,0 +1,2 @@
+Please download the latest version of Geth here: https://geth.ethereum.org/downloads/
+If you are using another OS that is not Windows, you will need to adjust your path settings in appsettings.test.json  
