@@ -6,10 +6,10 @@
         "language": "C#"
     },
     "symbols": {
-        "ContractLibrary": {
+        "ContractLibraryName": {
             "type": "parameter",
             "datatype": "text",
-            "description": "Renames files containing 'ContractLibrary'",
+            "description": "The Contract Library Name to be used instead of the default 'MyContractLibrary'",
             "fileRename": "ContractLibrary",
             "replaces": "ContractLibrary",
             "isRequired": true,
@@ -18,7 +18,6 @@
     },
     "identity": "nethererum.smartcontractxunit",
     "shortName": "smartcontract",
-    "sourceName": "SmartContract",
     "guids": [
         "{3133878D-33AA-465B-A468-200850EAC35E}",
         "{22573139-3C34-4943-9056-D72D46B634BB}",
